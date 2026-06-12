@@ -17,7 +17,7 @@ order = {
     "order_id": str(uuid.uuid4()),
     "user":"rahul",
     "item":"Pizza",
-    "quantity": 2
+    "quantity": 1
 }
 
 
